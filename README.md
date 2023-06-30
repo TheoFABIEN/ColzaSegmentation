@@ -1,4 +1,4 @@
-# U-net based segmentation of lesions on pea leaves.
+# U-net based segmentation of lesions on colza leaves.
 
 Network architecture : vanilla U-net built from scratch.
 
